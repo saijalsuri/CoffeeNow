@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoffeeNow</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+    <string name="title_activity_profile_fragment">ProfileFragment</string>
+    <string name="title_activity_feed_fragment">FeedFragment</string>
+    <string name="searchicon">searchicon</string>
+    <string name="mapicon">mapicon</string>
+    <string name="settingsicon">settingsicon</string>
+    <string name="FindCafeTxt">Find a Cafe</string>
+    <string name="DonateTxt">Donate a Coffee</string>
+
+</resources>

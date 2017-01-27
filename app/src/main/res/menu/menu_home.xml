@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomeActivity">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_action_action_search"
+        android:orderInCategory="200"
+        android:title="@string/searchicon"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_action_maps_place"
+        android:orderInCategory="200"
+        android:title="@string/mapicon"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_action_action_settings"
+        android:orderInCategory="200"
+        android:title="@string/settingsicon"
+        app:showAsAction="always" />
+
+
+</menu>
