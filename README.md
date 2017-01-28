@@ -5,4 +5,4 @@ A social media platform for coffee lovers!
 An android application that generates a list of coffee shops, user reviews, shared images and comments based on your location
 
 UI/UX Design: 
-![Alt text](https://github.com/saijalsuri/CoffeeNow/blob/master/app/src/main/res/drawable-hdpi/findcafe.png)
+![Alt text](https://github.com/saijalsuri/CoffeeNow/blob/master/app/src/main/res/drawable-mdpi/findcafe.png)
